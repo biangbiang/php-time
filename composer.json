@@ -1,0 +1,18 @@
+{
+    "name": "biangbian/time",
+    "description": "get time for php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "biang",
+            "email": "djchurch007@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Biang\\Time\\": "src/"
+        }
+    }
+}
