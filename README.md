@@ -1,6 +1,6 @@
 # php-time
 
-## install
+## Install
 
 ```bash
 composer require biangbiang/time
